@@ -4,16 +4,16 @@
 */
 var songs = {
 	'1':{
-		song:"DJ Khaled - Do You Mind",
-		picture: "khaledMind"
+		song:"Ariana Grande - Side To Side ft. Nicki Minaj",
+		picture: "sidetoside1"
 	},
 	'2':{
-		song:"Elton John - Mona Lisas And Mad Hatters",
-		picture: "EltonMona"
+		song:"Charlie Puth - We Dont Talk Anymore (feat. Selena Gomez) [Offici",
+		picture: "wedonttalkanymore"
 	},
 	'3':{
-		song:"Journey - Faithfully",
-		picture: "JourneyFaith"
+		song:"The Weeknd - Starboy (official) ft. Daft Punk",
+		picture: "starboy"
 	}
 };
 
